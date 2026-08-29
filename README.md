@@ -16,9 +16,6 @@ This repository contains SQL queries and schema scripts for analyzing bike store
 2. **Top 5 Revenue Drivers**:
 3. **Customer Order Frequency (Top Buyers)**:
 
-## 📊 Day 1 Executive Dashboard (Power BI)
-![Dashboard Preview](dashboard/dashboard_preview.png)
-- `.pbix` file available in the `/dashboard` directory.
 
 ## Repository Structure
 sql-bike-sales-analysis/
