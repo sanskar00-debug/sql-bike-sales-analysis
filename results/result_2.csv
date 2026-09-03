@@ -1,0 +1,11 @@
+customer_id,first_name,last_name,email,state,total_orders,total_items_bought,total_spend
+10,Pamelia,Newman,pamelia.newman@gmail.com,NY,3,18,37801.84
+75,Abby,Gamble,abby.gamble@aol.com,NY,2,11,37500.89
+94,Sharyn,Hopkins,sharyn.hopkins@hotmail.com,NY,2,15,37138.86
+6,Lyndsey,Bean,lyndsey.bean@hotmail.com,NY,3,16,35857.86
+16,Emmitt,Sanchez,emmitt.sanchez@hotmail.com,NY,3,19,34503.82
+73,Melanie,Hayes,melanie.hayes@msn.com,NY,2,12,34390.88
+1,Debra,Burks,debra.burks@yahoo.com,NY,3,17,30645.87
+61,Elinore,Aguilar,elinore.aguilar@msn.com,TX,3,17,29661.83
+93,Corrina,Sawyer,corrina.sawyer@yahoo.com,NY,2,12,29214.89
+12,Robby,Sykes,robby.sykes@hotmail.com,NY,3,12,27157.88

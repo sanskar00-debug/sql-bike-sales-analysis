@@ -1,0 +1,5 @@
+price_segment,product_count,total_units_sold,total_revenue
+"Premium (> $3,000)",48,704,3190192.96
+"High-End ($1,501 - $3,000)",61,1121,2497573.61
+"Mid-Range ($500 - $1,500)",104,2338,1852470.70
+"Budget (< $500)",108,2915,1038751.61
