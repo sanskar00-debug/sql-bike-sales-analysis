@@ -67,11 +67,12 @@ The database bike_store_db connects three relational tables:
                            │  price    │
                            │  order_date
                            └───────────┘
+```
 
-##**📊 Dashboard Preview**
-Visual analytics implemented in Power BI Desktop featuring KPI summaries, dynamic state slicers, and revenue concentration models:
+## 📊 Dashboard Preview
+Visual analytics implemented in Power BI Desktop featuring KPI summaries, dynamic state slicers, and revenue concentration models.
 
-##**🚀 Setup & Execution**##
+## 🚀 Setup & Execution
 Prerequisites
 - MySQL Server (8.0+) & MySQL Workbench
 
@@ -79,5 +80,5 @@ Prerequisites
 
 - Git CLI
 
-##**📄 License**##
+## 📄 License
 Distributed under the MIT License. See LICENSE for more information.
