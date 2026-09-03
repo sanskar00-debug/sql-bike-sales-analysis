@@ -37,7 +37,7 @@ sql-bike-sales-analysis/
 ├── reports/
 │   └── Velocity_Bikes_Business_Report.pdf # Final executive analysis deliverable
 └── README.md
-
+```
 
 ## 🗄️ Relational Database Schema
 
@@ -67,7 +67,6 @@ The database bike_store_db connects three relational tables:
                            │  price    │
                            │  order_date
                            └───────────┘
-```
 
 ## 📊 Dashboard Preview
 Visual analytics implemented in Power BI Desktop featuring KPI summaries, dynamic state slicers, and revenue concentration models.
